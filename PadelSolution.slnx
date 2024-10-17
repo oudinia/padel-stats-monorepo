@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <File Path="src\.dockerignore" />
+    <File Path="src\.gitignore" />
+    <File Path="src\Dockerfile" />
+    <Project Path="src\aquaapi\aquaapi.csproj" />
+    <Project Path="src\PadelStats.Import.PdfToCSV\PadelStats.Import.PdfToCSV.csproj" />
+    <Project Path="src\PadelStats.Import\PadelStats.Import.csproj" />
+  </Folder>
+  <Properties Name="Visual Studio">
+    <Property Name="OpenWith" Value="17" />
+  </Properties>
+</Solution>
